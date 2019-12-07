@@ -1,3 +1,4 @@
+// Coment typo
 public class Test {
     public static void main (String[] args) {
         String mojString = "nowy String";
@@ -10,6 +11,7 @@ public class Test {
 
             System.out.println ("feature/counter");
             System.out.println ("feature and counter");
+
         }
     }
 }
