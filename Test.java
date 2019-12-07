@@ -7,6 +7,8 @@ public class Test {
             System.out.println (s);
             System.out.println ("hejka");
             System.out.println ("super");
+
+            System.out.println("local repo");
         }
     }
 }
