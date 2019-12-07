@@ -7,6 +7,9 @@ public class Test {
             System.out.println (s);
             System.out.println ("hejka");
             System.out.println ("super");
+
+            System.out.println ("feature/counter");
+            System.out.println ("feature and counter");
         }
     }
 }
