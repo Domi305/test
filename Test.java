@@ -4,6 +4,7 @@ public class Test {
         for (String s : args) {
             System.out.println (s);
             System.out.println ("hejka");
+            System.out.println ("super");
         }
     }
 }
