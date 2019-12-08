@@ -11,6 +11,8 @@ public class Test {
 
             System.out.println ("feature/counter");
             System.out.println ("feature and counter");
+
+            System.out.println("features/test");
         }
     }
 }
